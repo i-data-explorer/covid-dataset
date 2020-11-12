@@ -1,0 +1,46 @@
+{
+  "name": "Covid Dataset",
+  "description": "Dataset for covid data",
+  "logo": "_images/dataset.png",
+  "has_supporting_content": false,
+  "stack_id": "covid_dataset",
+  "type": "Dataset",
+  "categories": [
+    "Covid",
+    "Health"
+  ],
+  "platform": "Kubernetes",
+  "cover": "cover.md",
+  "deployment_information": {
+     "Dataset": "/home/student/projects/covid_dataset"
+  },
+  "commands": [
+    {
+      "description": "Get Dataset",
+      "exec": "cd /home/student/projects && mkdir covid_dataset && cd covid_dataset  && git clone https://github.com/datasets/covid-19"
+    }
+  ],
+  "display": [
+    {
+      "name": "Developer Dashboard",
+      "url": "##DNS.host##/codeserver",
+      "enabled": true
+    }
+  ],
+  "meta": {
+    "Install time": [
+      "2 minutes"
+    ],
+    "Type": [
+      "Dataset"
+    ],
+    "Tag": [
+      "CSV"
+    ],
+    "categories": [
+      "Covid",
+      "Health"
+    ]
+  },
+  "isDocumentSaved": true
+}
