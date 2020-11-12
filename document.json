@@ -9,20 +9,13 @@
     "Covid",
     "Health"
   ],
-  "source_repo": "git clone https://github.com/datasets/covid-19",
+  "source_repo": "https://github.com/datasets/covid-19",
   "platform": "Kubernetes",
   "cover": "cover.md",
   "deployment_information": {
-     "Dataset": "/home/student/projects/covid_dataset"
+     "Dataset": "/home/jupyter-user/covid-19"
   },
   "commands": [
-  ],
-  "display": [
-    {
-      "name": "Developer Dashboard",
-      "url": "##DNS.host##/codeserver",
-      "enabled": true
-    }
   ],
   "meta": {
     "Install time": [
