@@ -9,16 +9,13 @@
     "Covid",
     "Health"
   ],
+  "source_repo": "git clone https://github.com/datasets/covid-19",
   "platform": "Kubernetes",
   "cover": "cover.md",
   "deployment_information": {
      "Dataset": "/home/student/projects/covid_dataset"
   },
   "commands": [
-    {
-      "description": "Get Dataset",
-      "exec": "cd /home/student/projects && mkdir covid_dataset && cd covid_dataset  && git clone https://github.com/datasets/covid-19"
-    }
   ],
   "display": [
     {
