@@ -9,14 +9,8 @@
     "Covid",
     "Health"
   ],
-  "source_repo": "https://github.com/datasets/covid-19",
-  "platform": "Kubernetes",
+  "source_repo": "https://github.com/datasets/covid-19.git",
   "cover": "cover.md",
-  "deployment_information": {
-     "Dataset": "/home/jupyter-user/covid-19"
-  },
-  "commands": [
-  ],
   "meta": {
     "Install time": [
       "2 minutes"
