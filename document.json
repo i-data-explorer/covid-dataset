@@ -3,7 +3,7 @@
   "description": "Dataset for covid data",
   "logo": "_images/dataset.png",
   "has_supporting_content": false,
-  "stack_id": "covid_dataset",
+  "de_catalog_id": "covid_dataset",
   "type": "Dataset",
   "categories": [
     "Covid",
