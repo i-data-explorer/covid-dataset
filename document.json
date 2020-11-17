@@ -4,7 +4,6 @@
   "logo": "_images/dataset.png",
   "has_supporting_content": false,
   "de_catalog_id": "covid_dataset",
-  "type": "Dataset",
   "categories": [
     "Covid",
     "Health"
@@ -21,10 +20,12 @@
     "Tag": [
       "CSV"
     ],
-    "categories": [
+    "Categories": [
       "Covid",
       "Health"
+    ],
+"Catalog Id": [
+      "covid_dataset"
     ]
-  },
-  "isDocumentSaved": true
+  }
 }
