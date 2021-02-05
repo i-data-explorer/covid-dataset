@@ -11,7 +11,7 @@
   "source_repo": "https://github.com/datasets/covid-19.git",
   "cover": "cover.md",
   "meta": {
-    "Install time": [
+    "Install Time": [
       "2 minutes"
     ],
     "Type": [
@@ -23,6 +23,15 @@
     "Categories": [
       "Covid",
       "Health"
+    ],
+    "Update Frequency": [
+      "Monthly"
+     ],
+    "Last Updated": [
+      "01/01/2021"
+    ],
+    "License": [
+      "N/A"
     ],
 "Catalog Id": [
       "covid_dataset"
